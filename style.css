@@ -1,0 +1,80 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+h1{
+    font-size: 50px;
+}
+.intro{
+    font-family: 'Yeseva One', cursive;
+}
+.blue-color{
+    color: blue;
+}
+.flex{
+    display: flex;
+}
+
+.half-w img{
+    width: 100%;
+    
+}
+.link{
+    text-decoration: none;
+    background-color: rgb(179, 255, 0);
+    padding: 10px 40px;
+    font-weight: 700;
+    border-radius: 5px;
+}
+.top{
+    background-image: url(top-banner.png);
+    margin: auto;
+    background-repeat: no-repeat;
+}
+.mp{
+    font-weight: bold;
+    width: 100%;
+    text-align: center;
+}
+section{
+    
+    padding: 100px 150px;
+}
+.in{
+    border-left: 5px solid red;
+}
+.brown{
+    color: royalblue;
+}
+#a{
+    background-color: aliceblue;
+}
+#b{
+    background-color: rgb(255, 245, 240);
+}
+#c{
+    background-color: rgb(240, 255, 242);
+}
+.mid-div{
+    
+    display: flex;
+    padding-left: 40px;
+}
+.pad{
+    padding-left: 20px;
+    margin-left: 40px;
+    border-radius: 26px;
+}
+.aleft{
+    text-align: left;
+    padding-left: 30px;
+}
+footer{
+    text-align: center;
+    background-color: burlywood;
+    
+}
+footer p{
+    margin: 0;
+
+}
